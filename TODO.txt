@@ -1,0 +1,10 @@
+* File: TODO.txt
+* Author: Hajdara Patrik
+* Copyright: 2023, Hajdara Patrik
+* Date: 2023-11-29
+* Licenc: MIT
+* Az esetlegesen elofordulo hibakert nem all modomban felelosseget vallalni
+
+TODO: A stopBtn majd a következő kört (round) generálja (MainController.java)
+TODO: A kártya színeket is le kell generálni (MainController.java)
+TODO: A jobb oldal mehet rögtön a setText()-be (MainController.java)
