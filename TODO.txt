@@ -1,7 +1,7 @@
 * File: TODO.txt
-* Author: Hajdara Patrik
-* Copyright: 2023, Hajdara Patrik
-* Date: 2023-11-29
+* Author: Vinkovits László
+* Copyright: 2023, 
+* Date: 2023-12-05
 * Licenc: MIT
 * Az esetlegesen elofordulo hibakert nem all modomban felelosseget vallalni
 
